@@ -44,4 +44,4 @@ ER Diagram visualized from the raw dataset
 
 
 ### Credits
-This inspiration for creating this project was derived from Darshil Parmar's Youtube channel which has videos and tutorials on several projects for aspiring Data Engineering projects. For sake of individual learning during hands-on, a different dataset was deliberately used than the one used by Darshil in his video demonstration. For more info about Darshil, visit https://datawithdarshil.com/
+The inspiration for creating this project was derived from Darshil Parmar's Youtube channel which has videos and tutorials on several projects for aspiring Data Engineering projects. For sake of individual learning during hands-on, a different dataset was deliberately used than the one used by Darshil in his video demonstration. For more info about Darshil, visit https://datawithdarshil.com/
