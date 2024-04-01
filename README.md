@@ -19,15 +19,15 @@ ER Diagram visualized from the raw dataset:
 - adding/altering the constraints on tables to allow for data normalization
 
 
-### The project has python script written in Jupyter Notebook that does the following
-- Reading data from a raw language codes dataset containing a set of raw csv files
-- Using pandas library to create intermediate dataframes from data processing
-- Using pandas to clean-up unneeded columns, renaming defaulted column names to simpler names
-- Using psycopg2 to create a database and establish a connection with it
-- Using psycopg2 to create schema and related constraints within the created database
-- Using psycopg2 to insert records into tables
-- demonstrating a deliberate contraint check failure
-- relaxing a constraint and re-inserting records from the dataframe without running into errors
+### The python script written in Jupyter Notebook does the following
+- Reads data from a language-codes dataset containing a set of raw .csv files
+- Uses pandas library to create intermediate dataframes from data processing
+- Uses pandas to clean-up unneeded columns, renaming defaulted column names to simpler names
+- Uses psycopg2 to create a database and establish a connection with it
+- Uses psycopg2 to create schema and related constraints within the created database
+- Uses psycopg2 to insert records into tables
+- demonstrates a deliberate contraint check failure
+- relaxes a constraint and re-inserts records from the dataframe without running into errors
 
 
 ### Technologies used
