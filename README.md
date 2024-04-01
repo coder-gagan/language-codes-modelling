@@ -7,7 +7,7 @@ A publicly available raw data set has been analysed and normalized into a Postgr
 The project has been implemented on MacOS and thus has steps tailored for it.
 
 ### Project Structure
-- dataset folder contains the raw data in the form of multiple .csv files downloaded from a public static data source
+- The /dataset folder contains the raw data in the form of multiple .csv files downloaded from a public static data source
 - DataModelling_LanguageCodes is a jupyter notebook containing the script for transforming the contents of raw dataset into normalized relational data
 - SetupPostgres_MacOS is a jupyter notebook containing the optional steps for setting up PostgreSQL using brew and running it as a service on MacOS
 
