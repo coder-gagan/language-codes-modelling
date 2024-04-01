@@ -1,6 +1,6 @@
 ## Language Code Data Modelling Project
 
-This project is a Data Engineering project which demonstrates relational modelling of raw data.
+This Data Engineering project demonstrates relational modelling of raw data.
 
 A publicly available raw data set has been analysed and normalized into a postgres database.
 
