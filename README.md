@@ -2,10 +2,16 @@
 
 This Data Engineering project demonstrates relational modelling of raw data.
 
-A publicly available raw data set has been analysed and normalized into a postgres database.
+A publicly available raw data set has been analysed and normalized into a PostgreSQL database.
 
+The project has been implemented on MacOS and thus has steps tailored for it.
 
-ER Diagram visualized from the raw dataset:
+### Project Structure
+- dataset folder contains the raw data in the form of multiple .csv files downloaded from a public static data source
+- DataModelling_LanguageCodes is jupyter notebook containing the script for processing the raw dataset into normalized relational data
+- SetupPostgres_MacOS is a jupyter notebook containing the optional steps for setting up PostgreSQL using brew and running it as a service
+
+ER Diagram visualized from the raw dataset
 <img width="791" alt="DataModel_LanguageCodes" src="https://github.com/coder-gagan/language-codes-modelling/assets/141386400/77e673a1-f068-465c-8094-f9e4fc650cea">
 
 
