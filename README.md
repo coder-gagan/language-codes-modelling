@@ -32,7 +32,7 @@ ER Diagram visualized from the raw dataset:
 
 ### Technologies used
 - scripting language -> Python
-- python libraries -> pandas (for data analyis), psycopg2 (database adapter for connecting to postgres via python code)
+- python libraries -> pandas (for data analysis), psycopg2 (database adapter for connecting to postgres via python code)
 - data modelling -> draw.io
 - database -> postgresql
 
