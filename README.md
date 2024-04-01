@@ -1,4 +1,4 @@
-## Language Code Data Modelling project
+## Language Code Data Modelling Project
 
 This project is a Data Engineering project which demonstrates relational modelling of raw data.
 
